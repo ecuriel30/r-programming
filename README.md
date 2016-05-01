@@ -1,2 +1,2 @@
 # r-programming
-Coursera files
+Coursera lecture
